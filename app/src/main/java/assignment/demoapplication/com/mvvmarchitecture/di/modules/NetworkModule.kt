@@ -2,7 +2,7 @@ package assignment.demoapplication.com.mvvmarchitecture.di.modules
 
 import androidx.annotation.NonNull
 import assignment.demoapplication.com.mvvmarchitecture.network.APIinterface
-import assignment.demoapplication.com.mvvmarchitecture.util.Constants.Companion.BASEURL
+import assignment.demoapplication.com.mvvmarchitecture.util.Constants.ApiUrls.Companion.BASEURL
 import com.jakewharton.retrofit2.adapter.rxjava2.RxJava2CallAdapterFactory
 import dagger.Module
 import dagger.Provides
